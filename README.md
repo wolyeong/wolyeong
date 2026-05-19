@@ -38,3 +38,21 @@ Spring Boot 기반 백엔드 개발을 중심으로, Next.js 프론트엔드와 
 </div>
 
 <br/>
+
+## Contribution Activity
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wolyeong&theme=github-compact&hide_border=true"
+  />
+</div>
+
+<br/>
+
+## GitHub Streak
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=wolyeong&theme=default&hide_border=true"
+  />
+</div>
